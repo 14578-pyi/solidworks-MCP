@@ -1,0 +1,4 @@
+interface:
+  display_name: "SolidWorks MCP Modeling"
+  short_description: "SolidWorks MCP CAD workflow"
+  default_prompt: "Use $solidworks-mcp-modeling to control SolidWorks through MCP and build a staged mechanical CAD model safely."
